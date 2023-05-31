@@ -9,6 +9,7 @@
       "record-replay-req-res-scenario",
       "vpn-split"
     ],
+    "generateChangelog": true,
     "overrided": {
       "linkedFolders": [],
       "ignoreDepsPattern": [
