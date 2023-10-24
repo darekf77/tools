@@ -4,10 +4,7 @@
     "version": "v3",
     "type": "container",
     "linkedProjects": [
-      "isomorphic-storage",
-      "ng-talkback",
-      "record-replay-req-res-scenario",
-      "vpn-split"
+      "isomorphic-storage"
     ],
     "generateChangelog": true,
     "overrided": {

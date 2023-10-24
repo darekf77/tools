@@ -49,9 +49,6 @@ Thumbs.db
 
 # container/workspace git projects
 /isomorphic-storage
-/ng-talkback
-/record-replay-req-res-scenario
-/vpn-split
 
 # =====================
 *.filetemplate
