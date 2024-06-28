@@ -59,6 +59,7 @@ Thumbs.db
 
 # container/workspace git projects
 /isomorphic-storage
+/angular-electron-jiggler
 
 # =====================
 *.filetemplate
