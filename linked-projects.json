@@ -1,9 +1,10 @@
 {
-    "projects": [
-        {
-            "relativeClonePath": "isomorphic-storage",
-            "repoUrl": "https://github.com/darekf77/isomorphic-storage.git",
-            "defaultBranch": "master"
-        }
-    ]
+  "projects": [
+    {
+      "relativeClonePath": "isomorphic-storage",
+      "repoUrl": "https://github.com/darekf77/isomorphic-storage.git",
+      "defaultBranch": "master",
+      "deafultBranch": "master"
+    }
+  ]
 }
